@@ -1,0 +1,198 @@
+## Contexte
+
+Tu agis en tant qu’**analyste financier spécialisé dans les crypto-actifs, la blockchain et la réglementation financière européenne**.
+
+Tu disposes de deux documents de référence :
+
+1. **« Blockchain for Beginners »** : document présentant les concepts, mécanismes, usages, risques, limites et enjeux de la technologie blockchain et des crypto-actifs.
+2. **Le règlement européen MiCA — Regulation (EU) 2023/1114** : cadre réglementaire européen applicable aux crypto-actifs et aux prestataires de services sur crypto-actifs.
+
+Ces deux documents doivent être analysés **exclusivement à partir de leur contenu**, sans remplacer, corriger ou compléter silencieusement leurs informations par des connaissances externes.
+
+---
+
+## Objectif
+
+Identifie et analyse les **adhérences entre les deux documents**, c’est-à-dire les points où les concepts, risques, acteurs, mécanismes ou enjeux présentés dans le document Blockchain trouvent un **écho, une traduction réglementaire, une réponse ou une limite dans MiCA**.
+
+L’objectif est de comprendre :
+
+* comment les caractéristiques techniques et économiques de la blockchain se traduisent en enjeux réglementaires ;
+* quels risques identifiés dans le document Blockchain sont pris en compte par MiCA ;
+* quelles activités et quels acteurs de l’écosystème blockchain sont directement concernés par MiCA ;
+* quels principes technologiques ou économiques sont compatibles avec le cadre réglementaire ;
+* quelles problématiques du document Blockchain restent hors du champ de MiCA ;
+* quelles sont les implications potentielles pour un investisseur, un établissement financier, un émetteur ou un prestataire de services sur crypto-actifs.
+
+Ne te limite pas à identifier des similitudes : **explique le lien logique entre les deux documents et son implication financière ou réglementaire**.
+
+---
+
+## Contraintes
+
+1. **Travaille d’abord à partir des deux documents fournis.**
+2. Ne présente aucune information externe comme provenant des documents.
+3. Lorsque les documents ne permettent pas de conclure, indique explicitement :
+   **« Non documenté dans les sources fournies »**.
+4. Distingue clairement :
+
+   * les faits directement établis par les documents ;
+   * les déductions analytiques ;
+   * les éventuelles limites d’interprétation.
+5. Ne confonds pas :
+
+   * blockchain et crypto-actif ;
+   * crypto-actif et instrument financier ;
+   * technologie blockchain et activité réglementée ;
+   * émetteur et prestataire de services sur crypto-actifs.
+6. Analyse les adhérences selon plusieurs dimensions :
+
+   * **technologique** ;
+   * **économique** ;
+   * **financière** ;
+   * **réglementaire** ;
+   * **risque** ;
+   * **protection des investisseurs/clients** ;
+   * **gouvernance** ;
+   * **environnementale**, lorsque pertinente.
+7. Pour chaque adhérence importante, indique précisément **où elle apparaît dans les documents** (article, section, chapitre ou passage identifiable).
+8. Ne fais pas de classement global du type « meilleur », « plus important » ou « plus favorable ». Si tu hiérarchises les sujets, utilise uniquement une hiérarchie **des impacts ou de la portée documentée**, et explique le critère utilisé.
+9. Ne formule pas de recommandation d’investissement personnalisée.
+10. Signale les éventuelles tensions entre la logique décentralisée de la blockchain et les exigences réglementaires de MiCA sans supposer qu’elles constituent nécessairement une contradiction.
+
+---
+
+## Format attendu
+
+### 1. Executive Summary
+
+Présente en **5 à 10 points** les principales adhérences entre les deux documents.
+
+Pour chaque point, précise brièvement :
+
+**Concept blockchain → réponse MiCA → implication financière/réglementaire**
+
+---
+
+### 2. Matrice principale des adhérences
+
+Construis un tableau avec les colonnes suivantes :
+
+| Thématique | Document Blockchain | Disposition / principe MiCA | Type d’adhérence | Analyse du lien | Implication financière | Niveau de portée |
+| ---------- | ------------------- | --------------------------- | ---------------- | --------------- | ---------------------- | ---------------- |
+
+Utilise comme types d’adhérence :
+
+* **Convergence**
+* **Complémentarité**
+* **Traduction réglementaire**
+* **Encadrement / limitation**
+* **Tension potentielle**
+* **Absence de couverture**
+
+---
+
+### 3. Analyse détaillée par thématique
+
+Analyse séparément :
+
+#### A. Technologie et fonctionnement de la blockchain
+
+Identifie les caractéristiques techniques de la blockchain qui ont une conséquence réglementaire ou financière dans MiCA.
+
+#### B. Crypto-actifs et tokenisation
+
+Analyse comment les différents usages et types de crypto-actifs présentés dans le document Blockchain sont pris en compte par MiCA.
+
+#### C. Risques
+
+Construis une correspondance entre les risques identifiés dans le document Blockchain et les mécanismes de prévention, de transparence ou de surveillance prévus par MiCA.
+
+#### D. Acteurs et modèles économiques
+
+Compare les acteurs de l’écosystème blockchain avec les catégories d’acteurs réglementées par MiCA.
+
+#### E. Protection des investisseurs et des clients
+
+Analyse comment les risques liés aux investisseurs, consommateurs et détenteurs de crypto-actifs sont traités.
+
+#### F. Marchés et services financiers
+
+Analyse les liens entre blockchain, plateformes, échanges, conservation, conseil, gestion de portefeuille et autres services couverts par MiCA.
+
+#### G. Gouvernance, décentralisation et responsabilité
+
+Analyse particulièrement la relation entre la logique décentralisée de certaines blockchains et les exigences d’identification, d’agrément, de responsabilité et de surveillance prévues par MiCA.
+
+#### H. Environnement et consommation énergétique
+
+Compare les enjeux environnementaux identifiés dans le document Blockchain avec les dispositions ou exigences correspondantes de MiCA.
+
+---
+
+### 4. Zones de couverture et zones non couvertes
+
+Produis deux tableaux :
+
+**A. Enjeux blockchain couverts par MiCA**
+
+| Enjeu | Traitement par MiCA | Niveau de couverture | Commentaire |
+| ----- | ------------------- | -------------------- | ----------- |
+
+**B. Enjeux blockchain non ou insuffisamment couverts par MiCA**
+
+| Enjeu | Pourquoi MiCA ne le couvre pas / partiellement | Conséquence |
+| ----- | ---------------------------------------------- | ----------- |
+
+---
+
+### 5. Lecture financière
+
+Adopte ensuite une perspective d’**analyste financier**.
+
+Explique les effets potentiels des adhérences identifiées sur :
+
+* le **risque réglementaire** ;
+* le **risque opérationnel** ;
+* le **risque de marché** ;
+* le **risque de liquidité** ;
+* le **risque de contrepartie** ;
+* le **risque technologique/cyber** ;
+* le **coût de conformité** ;
+* la **transparence de l’information** ;
+* la **protection des investisseurs** ;
+* les **modèles économiques des acteurs crypto** ;
+* l'accès ou l'intégration des crypto-actifs dans le système financier traditionnel.
+
+Pour chaque point, distingue clairement ce qui est **directement établi par les documents** de ce qui constitue une **inférence analytique**.
+
+---
+
+### 6. Synthèse stratégique
+
+Termine par une synthèse répondant à ces cinq questions :
+
+1. **Quels sont les principaux points de rencontre entre blockchain et MiCA ?**
+2. **Quels risques blockchain MiCA cherche-t-il explicitement à encadrer ?**
+3. **Quels acteurs et activités sont les plus directement concernés par cette articulation ?**
+4. **Quelles limites du cadre MiCA ressortent de la comparaison avec les enjeux technologiques de la blockchain ?**
+5. **Que signifie cette articulation pour l'analyse financière du secteur des crypto-actifs ?**
+
+Termine par une représentation synthétique sous la forme :
+
+**Technologie blockchain → Crypto-actifs → Activités économiques → Risques → Réponse MiCA → Impacts financiers**
+
+---
+
+## Critères de réussite
+
+L’analyse sera considérée comme réussie si elle :
+
+* identifie des **liens précis et justifiés** entre les deux documents ;
+* évite les simples résumés séparés ;
+* met en évidence les **relations de cause à effet** entre technologie, risques, activités économiques et réglementation ;
+* distingue clairement **faits, interprétations et limites** ;
+* fournit des références précises aux deux documents ;
+* fait ressortir les **zones couvertes et non couvertes par MiCA** ;
+* apporte une véritable **lecture d’analyste financier**, et pas uniquement une lecture juridique ou technologique ;
+* permet à un lecteur de comprendre en quelques minutes **comment la technologie blockchain se transforme en enjeux réglementaires et financiers dans MiCA**.
